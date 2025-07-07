@@ -2,23 +2,15 @@
 #### I am a .Net Core Developer
 ![C#](https://miro.medium.com/v2/resize:fit:868/0*gobhhH9XNkQ5UP-M.gif)
 
-My name is Mertkan Özlü, a 20-year-old software developer. I studied Information Technology in high school, where I learned C#, HTML, and CSS. Afterward, I interned for six months, receiving training in Oracle SQL, WordPress, HTML, and CSS.
+I am a 21-year-old .NET Core developer. I am solution-oriented, analytical, eager to learn, and curious. I am familiar with modern work methodologies such as Agile, Scrum, and Kanban. I graduated from the Information Technologies Department.
 
-I then earned two certifications: Microsoft Official Course: Developing ASP.NET MVC 6 Web Applications and the Certificate of Achievement. During this time, I focused on:
+I began my career as a software intern, and the experiences I gained have helped me build a strong foundation in the professional field. After earning both achievement and participation certificates from Bilge Adam Academy, I took active roles in various projects and participated in software development processes at multiple companies. Additionally, I can present the projects where I applied different techniques to improve myself. You can also access my active projects through my personal website.
 
-SOLID Principles
-Entity Framework Core
-Dependency Injection
-Web API
-.NET Core
-ASP.NET MVC
-I have developed various projects, including a logistics website, a brand website, and my personal website. I also have GitHub projects like a blog site and travel sites.
+In the future, I aim to further enhance my experience in software development, deepen my expertise, and make lasting contributions to the industry.
 
-I briefly worked at a software company, gaining JavaScript experience, followed by seven months as a Junior Software Developer at another company, where I worked with Oracle SQL, RPA, Power BI, VMware, Plesk, and WordPress.
 
-I am continuously improving my software development skills and aim to deepen my expertise further.
 
-Skills: C# / ASP NET CORE / SQL / HTML / CSS / RPA / JS 
+Skills: C# / ASP NET CORE / SQL / HTML / CSS / RPA 
 
 
 
