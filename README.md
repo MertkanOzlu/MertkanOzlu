@@ -10,7 +10,7 @@ In the future, I aim to further enhance my experience in software development, d
 
 
 
-Skills: C# / .NET CORE / SQL / HTML / CSS / RPA / DEVOPS / 
+Skills: C# / .NET CORE / SQL / HTML / CSS / RPA / DEVOPS 
 
 
 
